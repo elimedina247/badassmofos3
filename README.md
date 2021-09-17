@@ -1,3 +1,5 @@
 # badassmofos3
 CSCI 3308 LMEME group lab 3
-Project Team Members: Michael Logan
+Project Team Members: Michael
+
+Corrected the changes made by Logan
