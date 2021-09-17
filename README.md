@@ -1,4 +1,6 @@
 # badassmofos3
 CSCI 3308 LMEME group lab 3
-This is an edit.
+Project Team Members:
+Eli Medina
 
+Corrected the changes made by Eli
