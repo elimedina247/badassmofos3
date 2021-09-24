@@ -6,5 +6,6 @@ Project Team Members: Michael
 Project Team Members:
 Logan Wallace, Michael Lucky
 edho4675, Eli Medina
+Maya Douglas but main
 Corrected the changes.
 
